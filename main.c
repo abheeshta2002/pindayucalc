@@ -76,5 +76,5 @@ double sun_deg, sun_exalt_deg, moon_deg, moon_exalt_deg, mercury_deg, mercury_ex
   }
   longevity_unrectified = temp_sun + temp_moon + temp_mars + temp_mercury + temp_venus + temp_jupiter + temp_saturn;
   printf("According to Pindayurdaya method of longevity calculation, your life span is %lf\n",longevity_unrectified);
-  printf("This number still needs to be rectified using some rectifications methods");$
+  printf("This number still needs to be rectified using some rectifications methods");
 }
